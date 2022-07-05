@@ -1,0 +1,6 @@
+Stats:
+Strength: How hard hit
+Dex: How quickly you can move to the next action
+Intelligence: How many actions can be planned ahead
+Wisdom: How many times you can pause
+Charisma: How well you interact in a situation
